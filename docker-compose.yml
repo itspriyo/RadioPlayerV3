@@ -1,6 +1,6 @@
 version: "1.0"
 services:
-   RadioPlayerV3:
+   v3:
     build: .
     environment:
       API_ID: $API_ID
